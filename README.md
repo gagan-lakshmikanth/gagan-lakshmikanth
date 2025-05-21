@@ -1,66 +1,61 @@
-# 👋 Hey there, I’m Gagan Lakshmikanth  
-📍 Bengaluru, India  
-🧠 Product-Centric Data Analyst | SQL Whisperer | GenAI Explorer | Process Optimizer by Day, Prompt Tinkerer by Night
+# 👋 Hi, I'm Gagan
+
+🎯 **Data Analyst → Founding Engineer**  
+📍 Bengaluru, India | 📊 Data-First Mindset | 🤖 GenAI Explorer | ☕ Junior Dev  
+
+![banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzUzdWZ0bTUzZms4MGsweGdhMGRsazFrNzZ4am9qaWszN3drNG8zYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nNxT5qXR02FOM/giphy.gif)
 
 ---
 
-## 🚀 The Origin Story  
+## 🚀 What I'm Building
 
-Once upon a spreadsheet 📊, in the wild land of supply chains and fintech stacks, I realized data wasn't just numbers — it was a *superpower*.  
-From building dashboards that developers loved, to slicing ticket volumes with chatbot magic 🧙‍♂️🤖, I got hooked on **making data useful** — and kind of beautiful too.
+🔧 **Founding Engineer @ [Promptsheon](https://promptsheon.com)**  
+_Your go-to AI sidekick for reviewing, optimizing, and scoring LLM prompts._  
+Helping people prompt better, faster, and smarter.  
 
-My journey took me through:
-- **Flipkart**: where I leveled up national reverse logistics ♻️ and turned chaos into customer satisfaction.
-- **Scripbox**: where I partnered with engineers to tame platforms, build bots, and even play with some GenAI wizardry 🪄.
-
-Now? I’m on a quest to bridge the gap between *decision fatigue* and *data-driven clarity*, with a side hustle of exploring vector databases and machine intelligence.
-
----
-
-## 🛠️ What’s in My Toolkit  
-
-**Data & Analysis**  
-SQL | R | Excel | R Studio | Power BI  
-
-**Workflow Magic**  
-Asana | Jira | Notion | You Need a Wiki  
-
-**GenAI + ML (aka The Cool Stuff)**  
-Prompt Engineering • RAG • OpenAI • FAISS • Model Evaluation  
-
-**Cloud Playground**  
-AWS | SageMaker *(beginner but vibing with it)*
+🧪 **GenAI Experiments**  
+Playing with RAG 🧩 | FAISS 🧠 | OpenAI 🔮  
+Aided in Building a **GenAI chatbot POC** from scratch (logic + prompt flow + backend wrangling).
 
 ---
 
-## ✨ Highlights (Stuff I Brag About)  
+## 🧰 Tech & Toolkit
 
-- 🏹 Built a real-time SQL dashboard that made engineers smile  
-- 🎯 Designed a decision-tree chatbot that reduced support tickets by 25%  
-- 🪄 Created a GenAI chatbot POC using RAG + OpenAI  
-- ⚙️ Solved 500+ daily escalations at Flipkart with data finesse  
-- 🚛 Cleared 4,500 reverse shipments in one week  
+| Analytics & Viz 📊       | Infra & Ops ⚙️        | GenAI Curious 🤖       |
+|--------------------------|-----------------------|------------------------|
+| SQL • R • Excel • Power BI | AWS • Jupyter • Asana | OpenAI  • RAG   |
 
 ---
 
-## 🌱 Currently Growing In  
+## 🛠️ Past Life Highlights
 
-- Production-grade GenAI  
-- Vector databases, embeddings  
-- Human-first, data-smart product design  
-- Python for ML (the journey continues...)
+**🪄 Scripbox – Product Ops & GenAI**  
+- Built dashboards for real-time product insights  
+- Designed a decision-tree chatbot reducing support tickets by 25%  
+- Contributed to GenAI chatbot POC using RAG + OpenAI  
+- Cut support response time from 40 → 15 mins via Asana workflows  
 
----
-
-## 📫 Let’s Connect & Make Data Fun  
-
-- 🔗 [GitHub](https://github.com/gagan-lakshmikanth)  
-- 🔗 [LinkedIn](http://linkedin.com/in/gagan-lakshmikanth)
-
-> *“Data doesn’t speak for itself — I interrogate it until it sings.”*
+**🚚 Flipkart – Reverse Logistics Analyst**  
+- Optimized reverse supply chain across India  
+- Reduced return % from 1.96% → 0.46% 🛍️  
+- Built dashboards and improved regional ops for 4.5K+ shipments in 1 week  
 
 ---
 
-![vibing gif](https://media.giphy.com/media/3o7btYwXZd1Y7y1Hfq/giphy.gif)
+## 🧠 Education
 
-🎉 Let’s turn raw data into real decisions. Preferably with green tea  
+🎓 **B.E. in Industrial Engineering**  
+Dayananda Sagar College of Engineering (2019–2023)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/gagan-lakshmikanth)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/gagan-lakshmikanth)
+
+---
+
+![green tea](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXY0ZXJ4MG43M21pZnlycjVwdG9uNXZ1OTE3ZW5tZHl3bGU3ZXhnaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif)
+
+🍵 Writing better prompts. One sip at a time.
