@@ -3,7 +3,7 @@
 🎯 **Data Analyst → Founding Engineer**  
 📍 Bengaluru, India | 📊 Data-First Mindset | 🤖 GenAI Explorer | ☕ Junior Dev  
 
-![banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzUzdWZ0bTUzZms4MGsweGdhMGRsazFrNzZ4am9qaWszN3drNG8zYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nNxT5qXR02FOM/giphy.gif)
+
 
 ---
 
