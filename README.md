@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Gagan
+  # 👋 Hi, I'm Gagan
 
-🎯 **Data Analyst → Founding Engineer**  
-📍 Bengaluru, India | 📊 Data-First Mindset | 🤖 GenAI Explorer | ☕ Junior Dev  
+🎯 ** Founding Engineer**  
+📍 Bengaluru, India | 📊 Data-First Mindset | 🤖 GenAI Explorer | ☕ Founding Engineer  
 
 
 
